@@ -1,3 +1,7 @@
+/* Crea un programa que solicite al usuario el monto total de su compra. 
+Si el monto es mayor a $100, aplica un descuento del 15% y muestra el 
+total final; de lo contrario, muestra el monto sin descuento. */
+
 import java.util.Scanner;
 
 public class DescuentoCon15 {
