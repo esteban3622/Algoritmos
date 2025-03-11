@@ -6,7 +6,7 @@ En el siguiente repositorio podrá visualizar los diferentes ejercicios que se d
 ### Primeros pasos en Java ( Condicionales ) 
 - [Sistema de Descuentos en una Tienda](esteban3622/Algoritmos_2025_1/SistemaDescuentosTienda.java)
 - [Verificación de Acceso de Usuario](esteban3622/Algoritmos_2025_1/VerificacionAccesoUsuario.java)
-- [Cálculo de Tarifa de Taxi](esteban3622/Algoritmos_2025_1/CalculoTarifaTaxi.java)
+- [Cálculo de Tarifa de Taxi](https://github.com/esteban3622/Algoritmos_2025_1/blob/e6a63eb63be0799b766d629884fd7aa0d83c4a67/CalculoTarifaTaxi.java)
 
 ### Condicionales anidados
 
