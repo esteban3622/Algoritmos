@@ -22,6 +22,8 @@ public class CuentaBloqueadaSeguridadFor {
                 System.out.println("Cuenta bloqueada por seguridad.");
             } 
         }
+
+        scanner.close();
         
     }
 }
