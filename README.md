@@ -1,7 +1,5 @@
 # Algoritmos 
 
----
-
 ## Introducción al Curso de Algoritmos
 
 El curso de **Algoritmos** tiene como propósito fundamental brindar a los estudiantes las herramientas conceptuales y prácticas necesarias para el diseño y construcción de soluciones computacionales a través de estructuras lógicas y lenguajes de programación. Esta asignatura se posiciona como una base esencial en la formación de profesionales en ingeniería y tecnología, al permitir la comprensión y aplicación de técnicas de resolución de problemas mediante algoritmos claros, estructurados y eficientes.
@@ -53,23 +51,23 @@ El curso se estructura en tres etapas formativas principales:
 
 ---
 
-## Condicionales
+### 🥸 Código
 
-### Primeros pasos en Java ( Condicionales ) 
-- [Sistema de Descuentos en una Tienda](https://github.com/esteban3622/Algoritmos_2025_1/blob/eaabf45635f1deaca373ef5a6a0cd91f4e2fef9d/SistemaDescuentosTienda.java)
-- [Verificación de Acceso de Usuario](https://github.com/esteban3622/Algoritmos_2025_1/blob/eaabf45635f1deaca373ef5a6a0cd91f4e2fef9d/VerificacionAccesoUsuario.java)
-- [Cálculo de Tarifa de Taxi](https://github.com/esteban3622/Algoritmos_2025_1/blob/e6a63eb63be0799b766d629884fd7aa0d83c4a67/CalculoTarifaTaxi.java)
+En este sección podra encontrar los código que se están llevando a cabo en la sesiones de clase para el semestre 2025-1
 
-### Condicionales anidados
+#### ❓ Condicionales
 
-- [Clasificación de un estudiante según su nota](https://github.com/esteban3622/Algoritmos_2025_1/blob/eaabf45635f1deaca373ef5a6a0cd91f4e2fef9d/ClasificacionEstudiante.java)
-
-### If-else y Switch-case
-
-- [Menú de restaurante con If-Else](https://github.com/esteban3622/Algoritmos_2025_1/blob/eaabf45635f1deaca373ef5a6a0cd91f4e2fef9d/MenuRestauranteIf.java)
-- [Menú de restaurante con Switch-case](https://github.com/esteban3622/Algoritmos_2025_1/blob/eaabf45635f1deaca373ef5a6a0cd91f4e2fef9d/MenuRestauranteSwitch.java)
-
-## Ciclos
+* (`If`)
+    - [Sistema de Descuentos en una Tienda](https://github.com/esteban3622/Algoritmos_2025_1/blob/eaabf45635f1deaca373ef5a6a0cd91f4e2fef9d/SistemaDescuentosTienda.java)
+    - [Verificación de Acceso de Usuario](https://github.com/esteban3622/Algoritmos_2025_1/blob/eaabf45635f1deaca373ef5a6a0cd91f4e2fef9d/VerificacionAccesoUsuario.java)
+    - [Cálculo de Tarifa de Taxi](https://github.com/esteban3622/Algoritmos_2025_1/blob/e6a63eb63be0799b766d629884fd7aa0d83c4a67/CalculoTarifaTaxi.java)
+    - [Clasificación de un estudiante según su nota](https://github.com/esteban3622/Algoritmos_2025_1/blob/eaabf45635f1deaca373ef5a6a0cd91f4e2fef9d/ClasificacionEstudiante.java)
+* (`If-Else`)
+    - [Menú de restaurante con If-Else](https://github.com/esteban3622/Algoritmos_2025_1/blob/eaabf45635f1deaca373ef5a6a0cd91f4e2fef9d/MenuRestauranteIf.java)
+* (`Switch-Case`)
+    - [Menú de restaurante con Switch-case](https://github.com/esteban3622/Algoritmos_2025_1/blob/eaabf45635f1deaca373ef5a6a0cd91f4e2fef9d/MenuRestauranteSwitch.java)
+    
+#### 🔄 Ciclos
 
 ### Ciclo for 
 
