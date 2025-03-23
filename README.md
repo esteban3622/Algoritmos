@@ -89,10 +89,10 @@ Esta subsección contiene ejemplos que ilustran el uso de las principales estruc
 * (`do-while`): Similar a `while`, pero garantiza que el bloque de código se ejecutará al menos una vez, ya que la condición se evalúa después de la primera iteración.
 
 #### 🧩 Métodos
-Los métodos (o funciones) son bloques de código reutilizables que se pueden invocar para ejecutar una tarea específica. Esta subsección contiene ejemplos de:
+Los métodos (o funciones) son bloques de código reutilizables que se pueden invocar para ejecutar una tarea específica. A través de estos ejercicios se refuerza el concepto de modularidad, que permite dividir un programa en partes más pequeñas, organizadas y reutilizables, mejorando la claridad, mantenimiento y escalabilidad del código.
+
+Esta subsección contiene ejemplos de:
 
 Métodos con o sin parámetros, dependiendo de si reciben o no valores de entrada.
 
 Métodos con o sin valor de retorno, dependiendo de si devuelven o no un resultado después de su ejecución.
-
-A través de estos ejercicios se refuerza el concepto de modularidad, que permite dividir un programa en partes más pequeñas, organizadas y reutilizables, mejorando la claridad, mantenimiento y escalabilidad del código.
