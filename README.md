@@ -58,19 +58,22 @@ En este sección podra encontrar los código que se están llevando a cabo en la
 #### ❓ Condicionales
 
 * (`If`)
-    - [Sistema de Descuentos en una Tienda](https://github.com/esteban3622/Algoritmos_2025_1/blob/eaabf45635f1deaca373ef5a6a0cd91f4e2fef9d/SistemaDescuentosTienda.java)
-    - [Verificación de Acceso de Usuario](https://github.com/esteban3622/Algoritmos_2025_1/blob/eaabf45635f1deaca373ef5a6a0cd91f4e2fef9d/VerificacionAccesoUsuario.java)
-    - [Cálculo de Tarifa de Taxi](https://github.com/esteban3622/Algoritmos_2025_1/blob/e6a63eb63be0799b766d629884fd7aa0d83c4a67/CalculoTarifaTaxi.java)
-    - [Clasificación de un estudiante según su nota](https://github.com/esteban3622/Algoritmos_2025_1/blob/eaabf45635f1deaca373ef5a6a0cd91f4e2fef9d/ClasificacionEstudiante.java)
+    - [Sistema de Descuentos en una Tienda](https://github.com/esteban3622/Algoritmos/blob/main/Code/Conditionals/SistemaDescuentosTienda.java)
+    - [Verificación de Acceso de Usuario](https://github.com/esteban3622/Algoritmos/blob/main/Code/Conditionals/VerificacionAccesoUsuario.java)
+    - [Cálculo de Tarifa de Taxi](https://github.com/esteban3622/Algoritmos/blob/main/Code/Conditionals/CalculoTarifaTaxi.java)
+    - [Clasificación de un estudiante según su nota](https://github.com/esteban3622/Algoritmos/blob/main/Code/Conditionals/ClasificacionEstudiante.java)
 * (`If-Else`)
-    - [Menú de restaurante con If-Else](https://github.com/esteban3622/Algoritmos_2025_1/blob/eaabf45635f1deaca373ef5a6a0cd91f4e2fef9d/MenuRestauranteIf.java)
+    - [Menú de restaurante](https://github.com/esteban3622/Algoritmos/blob/main/Code/Conditionals/MenuRestauranteIf.java)
 * (`Switch-Case`)
-    - [Menú de restaurante con Switch-case](https://github.com/esteban3622/Algoritmos_2025_1/blob/eaabf45635f1deaca373ef5a6a0cd91f4e2fef9d/MenuRestauranteSwitch.java)
-    
+    - [Menú de restaurante](https://github.com/esteban3622/Algoritmos/blob/main/Code/Conditionals/MenuRestauranteSwitch.java)
+
 #### 🔄 Ciclos
 
-### Ciclo for 
+* (`For`)
+    - [Cuenta de seguridad](https://github.com/esteban3622/Algoritmos/blob/main/Code/Loops/CuentaBloqueadaSeguridadFor.java)
+* (`While`)
+    - [Calculador con menú](https://github.com/esteban3622/Algoritmos/blob/main/Code/Loops/CalculadorWhile.java)
+    - [Tablas de múltiplicar](https://github.com/esteban3622/Algoritmos/blob/main/Code/Loops/TablasMultiplicarWhile.java)
+* (`Do-While`)
 
-### Ciclo While 
-
-### Ciclo Do-While
+#### 📦 Métodos
