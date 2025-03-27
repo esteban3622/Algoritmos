@@ -87,6 +87,7 @@ Esta subsección contiene ejemplos que ilustran el uso de las principales estruc
     - [Calculador con menú](https://github.com/esteban3622/Algoritmos/blob/main/Code/Loops/CalculadorWhile.java)
     - [Tablas de múltiplicar](https://github.com/esteban3622/Algoritmos/blob/main/Code/Loops/TablasMultiplicarWhile.java)
 * (`do-while`): Similar a `while`, pero garantiza que el bloque de código se ejecutará al menos una vez, ya que la condición se evalúa después de la primera iteración.
+    - [Calculador con menú](https://github.com/esteban3622/Algoritmos/blob/main/Code/Loops/CalculadoraDoWhile.java)
 
 #### 🧩 Métodos
 Los métodos (o funciones) son bloques de código reutilizables que se pueden invocar para ejecutar una tarea específica. A través de estos ejercicios se refuerza el concepto de modularidad, que permite dividir un programa en partes más pequeñas, organizadas y reutilizables, mejorando la claridad, mantenimiento y escalabilidad del código.
