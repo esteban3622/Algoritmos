@@ -97,3 +97,21 @@ Esta subsección contiene ejemplos de:
 Métodos con o sin parámetros, dependiendo de si reciben o no valores de entrada.
 
 Métodos con o sin valor de retorno, dependiendo de si devuelven o no un resultado después de su ejecución.
+
+### 📚 Libros
+
+* [Schildt, H. (2007). Fundamentos de Java (3.ª ed., E. Pineda Rojas, Trad.). McGraw-Hill Interamericana Editores.]()
+
+* [Deitel, P. J., & Deitel, H. M. (2008). Cómo programar en Java (7.ª ed., A. V. R. Elizondo, Trad.). Pearson Educación.]()
+
+* [Dean, J. S., & Dean, R. H. (2009). Introducción a la programación con Java (1.ª ed.). McGraw-Hill/Interamericana Editores.]()
+
+* [Sánchez González, L. J. (2019). Aprende Java con ejercicios. Leanpub.]()
+
+* [Pino Herrera, J., Martínez Moreno, P., Vergara Camacho, J. A., & Contreras Vega, G. (2020). Introducción a la programación: Problemario de algoritmos pasos a paso, pruebas de escritorio y codificación en Java. Grupo Editorial HESS.]()
+
+* [Sznajdleder, P. A. (2020). Java a fondo: El gran libro de Java a fondo (4.ª ed.). Alfaomega Grupo Editor.]()
+
+* [Bermón Angarita, L. (2021). Ejercicios de programación orientada a objetos con Java y UML. Editorial Universidad Nacional de Colombia.]()
+
+* [Abanto Morales, M. J., Calla Vásquez, K. M., Pumacayo Palomino, I. I., Torres Rivera, J. L., Castañeda Núñez, E., & Calla Vásquez, N. L. (2021). Java básico para aprendices (1.ª ed.). Editorial EIDEC.]()
