@@ -86,6 +86,8 @@ Esta subsección contiene ejemplos que ilustran el uso de las principales estruc
 * (`while`): Ejecuta un bloque de código mientras una condición sea verdadera. Es útil cuando no se sabe con certeza cuántas veces se debe repetir el proceso.
     - [Calculador con menú](https://github.com/esteban3622/Algoritmos/blob/main/Code/Loops/CalculadorWhile.java)
     - [Tablas de múltiplicar](https://github.com/esteban3622/Algoritmos/blob/main/Code/Loops/TablasMultiplicarWhile.java)
+    - [Varificación de palindromos numéricos](https://github.com/esteban3622/Algoritmos/blob/main/Code/Loops/VerificacionPalindromosNumericos.java)
+    - [Varificación de palindromos numéricos con un solo While](https://github.com/esteban3622/Algoritmos/blob/main/Code/Loops/VerificacionPalindromosNumericosUnCiclo.java)
 * (`do-while`): Similar a `while`, pero garantiza que el bloque de código se ejecutará al menos una vez, ya que la condición se evalúa después de la primera iteración.
     - [Calculador con menú](https://github.com/esteban3622/Algoritmos/blob/main/Code/Loops/CalculadoraDoWhile.java)
 
@@ -100,18 +102,18 @@ Métodos con o sin valor de retorno, dependiendo de si devuelven o no un resulta
 
 ### 📚 Libros
 
-* [Schildt, H. (2007). Fundamentos de Java (3.ª ed., E. Pineda Rojas, Trad.). McGraw-Hill Interamericana Editores.]()
+* [Schildt, H. (2007). Fundamentos de Java (3.ª ed., E. Pineda Rojas, Trad.). McGraw-Hill Interamericana Editores.](https://github.com/esteban3622/Algoritmos/blob/main/Books/Fundamentos%20de%20Java%203%C2%AA.%20edici%C3%B3n..pdf)
 
-* [Deitel, P. J., & Deitel, H. M. (2008). Cómo programar en Java (7.ª ed., A. V. R. Elizondo, Trad.). Pearson Educación.]()
+* [Deitel, P. J., & Deitel, H. M. (2008). Cómo programar en Java (7.ª ed., A. V. R. Elizondo, Trad.). Pearson Educación.](https://github.com/esteban3622/Algoritmos/blob/main/Books/C%C3%93MO%20PROGRAMAR%20EN%20JAVA.%20S%C3%A9ptima%20edici%C3%B3n.pdf)
 
-* [Dean, J. S., & Dean, R. H. (2009). Introducción a la programación con Java (1.ª ed.). McGraw-Hill/Interamericana Editores.]()
+* [Dean, J. S., & Dean, R. H. (2009). Introducción a la programación con Java (1.ª ed.). McGraw-Hill/Interamericana Editores.](https://github.com/esteban3622/Algoritmos/blob/main/Books/INTRODUCCI%C3%93N%20A%20LA%20PROGRAMACI%C3%93N%20CON%20JAVA.pdf)
 
-* [Sánchez González, L. J. (2019). Aprende Java con ejercicios. Leanpub.]()
+* [Sánchez González, L. J. (2019). Aprende Java con ejercicios. Leanpub.](https://github.com/esteban3622/Algoritmos/blob/main/Books/Aprende%20Java%20con%20Ejercicios.pdf)
 
-* [Pino Herrera, J., Martínez Moreno, P., Vergara Camacho, J. A., & Contreras Vega, G. (2020). Introducción a la programación: Problemario de algoritmos pasos a paso, pruebas de escritorio y codificación en Java. Grupo Editorial HESS.]()
+* [Pino Herrera, J., Martínez Moreno, P., Vergara Camacho, J. A., & Contreras Vega, G. (2020). Introducción a la programación: Problemario de algoritmos pasos a paso, pruebas de escritorio y codificación en Java. Grupo Editorial HESS.](https://github.com/esteban3622/Algoritmos/blob/main/Books/Introducci%C3%B3n%20a%20la%20programaci%C3%B3n.pdf)
 
-* [Sznajdleder, P. A. (2020). Java a fondo: El gran libro de Java a fondo (4.ª ed.). Alfaomega Grupo Editor.]()
+* [Sznajdleder, P. A. (2020). Java a fondo: El gran libro de Java a fondo (4.ª ed.). Alfaomega Grupo Editor.](https://github.com/esteban3622/Algoritmos/blob/main/Books/El%20gran%20libro%20de%20Java%20a%20fondo.pdf)
 
-* [Bermón Angarita, L. (2021). Ejercicios de programación orientada a objetos con Java y UML. Editorial Universidad Nacional de Colombia.]()
+* [Bermón Angarita, L. (2021). Ejercicios de programación orientada a objetos con Java y UML. Editorial Universidad Nacional de Colombia.](https://github.com/esteban3622/Algoritmos/blob/main/Books/Ejercicios%20de%20programaci%C3%B3n%20orientada%20a%20objetos%20con%20JAVA%20y%20UML.pdf)
 
-* [Abanto Morales, M. J., Calla Vásquez, K. M., Pumacayo Palomino, I. I., Torres Rivera, J. L., Castañeda Núñez, E., & Calla Vásquez, N. L. (2021). Java básico para aprendices (1.ª ed.). Editorial EIDEC.]()
+* [Abanto Morales, M. J., Calla Vásquez, K. M., Pumacayo Palomino, I. I., Torres Rivera, J. L., Castañeda Núñez, E., & Calla Vásquez, N. L. (2021). Java básico para aprendices (1.ª ed.). Editorial EIDEC.](https://github.com/esteban3622/Algoritmos/blob/main/Books/JAVA%20B%C3%81SICO%20PARA%20APRENDICES.pdf)
