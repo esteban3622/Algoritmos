@@ -22,25 +22,30 @@ public class VerificacionPalindromosNumericosUnCiclo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int numeroIngresaUsuario = 0, temporal = 0, temporal2 = 0, temporal3 = 0, numeroAComparar = 0, contador = 0;
+        int numeroIngresaUsuario = 0;
+        int resultadoResiduo = 0;
+        int resultadoDivisionEntera = 0;
+        int copiaNumeroIngresado = 0;
+        int numeroAComparar = 0;
+        int contador = 0;
         boolean key = true;
 
         System.out.print("Por favor ingrese un número entero positivo: ");
         numeroIngresaUsuario = scanner.nextInt();
         contador = (int) (Math.log10(numeroIngresaUsuario));
         // System.out.println("contador = " +contador);
-        temporal3 = numeroIngresaUsuario;
+        copiaNumeroIngresado = numeroIngresaUsuario;
         while (key) {
-            temporal = temporal3 % 10;
-            numeroAComparar = numeroAComparar + temporal * ((int) Math.pow(10, contador));
-            temporal2 = temporal3 / 10;
-            temporal3 = temporal2;
+            resultadoResiduo = copiaNumeroIngresado % 10;
+            numeroAComparar = numeroAComparar + resultadoResiduo * ((int) Math.pow(10, contador));
+            resultadoDivisionEntera = copiaNumeroIngresado / 10;
+            copiaNumeroIngresado = resultadoDivisionEntera;
             contador--;
-            if (temporal3 > 9) {
+            if (copiaNumeroIngresado > 9) {
                 key = true;
             } else {
                 key = false;
-                numeroAComparar = numeroAComparar + temporal3 * (int) Math.pow(10, contador);
+                numeroAComparar = numeroAComparar + copiaNumeroIngresado * (int) Math.pow(10, contador);
             }
 
         }
